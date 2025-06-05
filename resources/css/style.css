@@ -15,3 +15,11 @@ img {
   width: 60%;
   max-width: 400px;
 }
+footer {
+  background-color: #333; /* или цвет из макета */
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+  margin-top: 40px;
+}
